@@ -37,5 +37,7 @@ public class Principal {
                     + ") = objeto 2 (" + areaObj2);
         }
         System.out.println(obj1.toString());
+        
+        System.out.println("HOLA ESTO ES UNA PRUEBA");
     }
 }
